@@ -1,0 +1,8 @@
+{
+  "name": "aromasysabores",
+  "app_id": "ba0c7dd4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
