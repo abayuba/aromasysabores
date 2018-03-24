@@ -1,0 +1,17 @@
+Server API Key help
+AIzaSyBlYsYuvyjhb1F8alIyPN_M_vAkfDLp410
+Sender ID help
+529189643060
+
+ONESIGNAL APP ID
+8815e066-76b2-4ffd-9e2b-b2a1221ca699
+
+REST API KEY
+OGFiOTEwZDctMmUyNC00ZGZlLTkxYWMtOGE1NmMxOTFhN2Nh
+
+
+Your App ID: 308cf66c-6838-40f3-84c9-a57e1075ed74
+
+
+color naranja: #f96332
+

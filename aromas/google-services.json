@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529189643060",
+    "project_id": "aromas-y-sabores-naturales"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529189643060:android:3be491c29b357ff5",
+        "android_client_info": {
+          "package_name": "com.estasonline.aromasysabores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529189643060-jtv6rmpdqgqeu7qgqjuuvit8gdnoe9f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlE0OH-VboDbqC0pi7mlHP3MeBUf2ACg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
